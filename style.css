@@ -1,0 +1,28 @@
+.copyRightFooter {
+position:fixed;
+color:#00FF00;
+bottom:0;
+width:100%;
+
+line-height: 2;
+text-align: center;
+
+}
+canvas {
+    border:2px solid #FFFFFF;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow:5px 5px 5px #ffffff
+}
+
+#start, #number, #status {
+    font-size: 18px;
+}
+.heading {
+    font-size: 23px;
+    width: 100px;
+    margin: 0px;
+}
+body {
+    background-size: cover;
+}
